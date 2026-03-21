@@ -1,5 +1,5 @@
 {
-  "app_enabled": tiko,
+  "app_enabled": true,
   "version": "1.0",
   "banned_hwids": []
 }
