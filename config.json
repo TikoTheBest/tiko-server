@@ -1,6 +1,10 @@
 {
-  "app_enabled": true,
-  "version": "1.0",
-  "banned_hwids": [],
-  "banned_users": []
+    "app_enabled": true,
+    "version": "1.0",
+    "banned_hwids": [
+        "d4e62f9c2afc2ff37d2fa7e9e9a70f33e53bd4f76b3924b92b2aebf6dc52ccde"
+    ],
+    "banned_users": [
+        "tiko3"
+    ]
 }
