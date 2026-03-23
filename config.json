@@ -1,11 +1,23 @@
 {
-  "users": {
-    "tiko": {
-      "password": "HASH_HERE",
-      "hwid": ""
-    }
-  },
-  "banned": {},
-  "online_users": {},
-  "system_enabled": true
+    "users": {
+        "tiko": {
+            "password": "HASH_HERE",
+            "hwid": ""
+        }
+    },
+    "banned": {},
+    "online_users": {
+        "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d": {
+            "username": "eee",
+            "ip": "192.168.0.109",
+            "country": "Unknown",
+            "city": "Unknown",
+            "device": "Windows 11",
+            "vpn": false,
+            "session_id": "f32cfec5-af03-49b5-bca4-a9b7677d80f5",
+            "login_time": "2026-03-23 08:13:44",
+            "last_seen": "2026-03-23 08:13:44"
+        }
+    },
+    "system_enabled": true
 }
