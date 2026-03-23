@@ -1,6 +1,14 @@
 {
-  "users": {},
-  "banned": {},
-  "online_users": {},
-  "system_enabled": true
+    "users": {},
+    "banned": {},
+    "online_users": {
+        "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d": {
+            "username": "eee",
+            "ip": "unknown",
+            "country": "unknown",
+            "session_id": "dedcba00-539d-44e8-be62-127b61edf34f",
+            "last_seen": "2026-03-23 04:18:58"
+        }
+    },
+    "system_enabled": true
 }
