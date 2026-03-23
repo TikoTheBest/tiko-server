@@ -4,6 +4,11 @@
         "tiko": {
             "password": "hash",
             "hwid": ""
+        },
+        "eeee": {
+            "password": "07f5937c9760f50867a78fa68982b1096cec0798448abf9395cd778fcded6f8d",
+            "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
+            "attempts": 0
         }
     },
     "banned": {}
