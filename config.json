@@ -1,12 +1,1 @@
-{
-    "system_enabled": true,
-    "users": {
-        "yourUsername": {
-            "password": "sha256hashhere",
-            "hwid": "",
-            "attempts": 0
-        }
-    },
-    "banned": {},
-    "online_users": {}
-}
+{ "system_enabled": true, "users": { "tiko": { "password": "hash", "hwid": "" } }, "banned": {} }
