@@ -1,11 +1,13 @@
 {
-    "users": {
-        "tiko": {
-            "password": "HASH_HERE",
-            "hwid": ""
-        }
-    },
-    "banned": {},
-    "online_users": {},
-    "system_enabled": true
+  "users": {
+    "tiko": {
+      "password": "HASH",
+      "hwid": "",
+      "attempts": 0,
+      "banned": false
+    }
+  },
+  "banned": {},
+  "online_users": {},
+  "system_enabled": true
 }
