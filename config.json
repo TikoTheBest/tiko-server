@@ -1,5 +1,13 @@
 {
-  "users": {},
-  "banned": {},
-  "online_users": {}
+    "users": {},
+    "banned": {},
+    "online_users": {
+        "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d": {
+            "username": "eee",
+            "ip": "unknown",
+            "country": "unknown",
+            "session_id": "1a5aa84c-e239-40f1-af11-6ae11ed1d37f",
+            "last_seen": "2026-03-23 03:50:40"
+        }
+    }
 }
