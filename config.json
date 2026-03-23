@@ -1,10 +1,5 @@
 {
-    "banned": {
-        "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d": {
-            "user": "1111",
-            "time": "2026-03-23 10:50:31"
-        }
-    },
+    "banned": {},
     "online_users": {},
     "system_enabled": true,
     "users": {
