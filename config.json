@@ -1,5 +1,10 @@
 {
     "app_enabled": true,
     "version": "1.0",
-    "banned": []
+    "banned": [
+        {
+            "user": "eee",
+            "hwid": "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d"
+        }
+    ]
 }
