@@ -1,11 +1,5 @@
 {
-    "banned": {
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0": {
-            "reason": "Auto-ban: HWID mismatch",
-            "time": "2026-03-23 10:51:53",
-            "user": "1234"
-        }
-    },
+    "banned": {},
     "online_users": {},
     "system_enabled": true,
     "users": {
