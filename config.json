@@ -1,8 +1,18 @@
 {
-    "banned": {},
+    "banned": {
+        "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d": {
+            "user": "1111",
+            "time": "2026-03-23 10:50:31"
+        }
+    },
     "online_users": {},
     "system_enabled": true,
     "users": {
+        "eee": {
+            "attempts": 0,
+            "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
+            "password": "282b91e08fd50a38f030dbbdee7898d36dd523605d94d9dd6e50b298e47844be"
+        },
         "eeee": {
             "attempts": 0,
             "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
@@ -11,11 +21,6 @@
         "tiko": {
             "hwid": "",
             "password": "hash"
-        },
-        "eee": {
-            "password": "282b91e08fd50a38f030dbbdee7898d36dd523605d94d9dd6e50b298e47844be",
-            "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
-            "attempts": 0
         }
     }
 }
