@@ -1,5 +1,6 @@
 {
-    "users": {},
-    "banned": {},
-    "online_users": {}
+  "users": {},
+  "banned": {},
+  "online_users": {},
+  "system_enabled": true
 }
