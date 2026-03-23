@@ -4,9 +4,9 @@
     "system_enabled": true,
     "users": {
         "eee": {
-            "attempts": 0,
+            "password": "282b91e08fd50a38f030dbbdee7898d36dd523605d94d9dd6e50b298e47844be",
             "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
-            "password": "282b91e08fd50a38f030dbbdee7898d36dd523605d94d9dd6e50b298e47844be"
+            "attempts": 0
         },
         "eeee": {
             "attempts": 0,
