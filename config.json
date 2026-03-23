@@ -1,6 +1,18 @@
 {
     "users": {},
     "banned": {},
-    "online_users": {},
+    "online_users": {
+        "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d": {
+            "username": "eee",
+            "ip": "192.168.0.109",
+            "country": "Unknown",
+            "city": "Unknown",
+            "device": "Windows 11",
+            "vpn": false,
+            "session_id": "fdd422d7-0bb4-4258-a7ee-7b3ac612cd1e",
+            "login_time": "2026-03-23 08:04:53",
+            "last_seen": "2026-03-23 08:04:53"
+        }
+    },
     "system_enabled": true
 }
