@@ -1,1 +1,10 @@
-{ "system_enabled": true, "users": { "tiko": { "password": "hash", "hwid": "" } }, "banned": {} }
+{
+    "system_enabled": true,
+    "users": {
+        "tiko": {
+            "password": "hash",
+            "hwid": ""
+        }
+    },
+    "banned": {}
+}
