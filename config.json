@@ -1,3 +1,12 @@
 {
-    "system_enabled": false
+    "system_enabled": true,
+    "users": {
+        "yourUsername": {
+            "password": "sha256hashhere",
+            "hwid": "",
+            "attempts": 0
+        }
+    },
+    "banned": {},
+    "online_users": {}
 }
