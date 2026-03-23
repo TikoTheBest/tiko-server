@@ -1,6 +1,15 @@
 {
     "users": {},
     "banned": {},
-    "online_users": {},
+    "online_users": {
+        "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d": {
+            "username": "eee",
+            "ip": "192.168.0.109",
+            "country": "unknown",
+            "device": "Windows 11",
+            "session_id": "c6be9c23-86b7-4416-a47c-6c778fc9c61b",
+            "last_seen": "2026-03-23 04:55:23"
+        }
+    },
     "system_enabled": true
 }
