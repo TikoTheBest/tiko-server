@@ -1,5 +1,5 @@
 {
-    "app_enabled": true,
-    "version": "1.0",
-    "banned": []
+  "users": {},
+  "banned": {},
+  "online_users": {}
 }
