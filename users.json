@@ -26,5 +26,13 @@
         "plan": "basic",
         "plan_expires": "2026-04-25 08:12:12",
         "plan_activated": "2026-03-26 08:12:12"
+    },
+    "ttt": {
+        "password": "3f7c54571faee024e3fd68603c5c95f6a4c8ef73a398840b974f3f57737a116f",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-06-24 08:12:29",
+        "plan_activated": "2026-03-26 08:12:29"
     }
 }
