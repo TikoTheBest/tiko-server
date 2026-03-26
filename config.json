@@ -4,20 +4,5 @@
         "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
     ],
     "banned": {},
-    "online_users": {
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0": {
-            "username": "tiko3",
-            "ip": "31.167.159.24",
-            "country": "SA",
-            "city": "Jeddah",
-            "device": "DESKTOP-71D16JD",
-            "system": "Windows 11",
-            "vpn": false,
-            "plan": "pro",
-            "plan_label": "PRO 🔥",
-            "session_id": "6b351867-8b0c-4ef9-a9f3-6b9767c9d619",
-            "login_time": "2026-03-26 09:42:55",
-            "last_seen": "2026-03-26 09:43:16"
-        }
-    }
+    "online_users": {}
 }
