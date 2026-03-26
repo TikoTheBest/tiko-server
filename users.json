@@ -34,5 +34,13 @@
         "plan": "pro",
         "plan_expires": "2026-06-24 08:12:29",
         "plan_activated": "2026-03-26 08:12:29"
+    },
+    "tiko2": {
+        "password": "48ff737c72b42135ccc10e096136e155e5f5eab6d2ee88e5a0f838cc5816d2ec",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "lifetime",
+        "plan_expires": "Never",
+        "plan_activated": "2026-03-26 08:13:29"
     }
 }
