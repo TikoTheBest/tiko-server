@@ -1,0 +1,30 @@
+{
+    "1234": {
+        "password": "03ac674216f3e15c761ee1a5e255f067953623c8b388b4459e13f978d7c846f4",
+        "hwid": "6f74eb5dee63ea7e348f3dee02371fab09d9e3388f9f1bd11aa432caaa4a690d",
+        "attempts": 3
+    },
+    "tik": {
+        "password": "8170fd8a2310fe7aabab25bfdee65820e9957d64ec9762c84309030d06299c63",
+        "hwid": "",
+        "attempts": 0
+    },
+    "batol": {
+        "password": "a665a45920422f9d417e4867efdc4fb8a04a1f3fff1fa07e998e86f7f7a27ae3",
+        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
+        "attempts": 0
+    },
+    "1111": {
+        "password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
+        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
+        "attempts": 0
+    },
+    "111": {
+        "password": "f6e0a1e2ac41945a9aa7ff8a8aaa0cebc12a3bcc981a929ad5cf810a090e11ae",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "basic",
+        "plan_expires": "2026-04-25 08:12:12",
+        "plan_activated": "2026-03-26 08:12:12"
+    }
+}
