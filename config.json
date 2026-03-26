@@ -1,21 +1,6 @@
 {
-    "banned": {},
-    "online_users": {},
-    "system_enabled": true,
-    "users": {
-        "eee": {
-            "password": "282b91e08fd50a38f030dbbdee7898d36dd523605d94d9dd6e50b298e47844be",
-            "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
-            "attempts": 0
-        },
-        "eeee": {
-            "attempts": 0,
-            "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
-            "password": "07f5937c9760f50867a78fa68982b1096cec0798448abf9395cd778fcded6f8d"
-        },
-        "tiko": {
-            "hwid": "",
-            "password": "hash"
-        }
-    }
+  "system_enabled": true,
+  "admin_hwids": [],
+  "banned": {},
+  "online_users": {}
 }
