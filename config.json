@@ -1,8 +1,8 @@
 {
-  "system_enabled": true,
-  "admin_hwids": [
-    "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
-  ],
-  "banned": {},
-  "online_users": {}
+    "system_enabled": true,
+    "admin_hwids": [
+        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
+    ],
+    "banned": {},
+    "online_users": {}
 }
