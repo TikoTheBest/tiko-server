@@ -1,17 +1,8 @@
 {
-    "system_enabled": true,
-    "admin_hwids": [
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
-    ],
-    "banned": {
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0": {
-            "user": "111",
-            "time": "2026-03-26 09:39:46",
-            "ip": "—",
-            "country": "—",
-            "device": "—",
-            "reason": "Kicked+banned (iOS)"
-        }
-    },
-    "online_users": {}
+  "system_enabled": true,
+  "admin_hwids": [
+    "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
+  ],
+  "banned": {},
+  "online_users": {}
 }
