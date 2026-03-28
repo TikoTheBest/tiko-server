@@ -1,23 +1,15 @@
 {
-  "system_enabled": true,
-  "admin_hwids": [
-    "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
-  ],
-  "banned": {},
-  "online_users": {
-    "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6": {
-      "username": "tt",
-      "ip": "31.167.159.24",
-      "country": "SA",
-      "city": "Jeddah",
-      "device": "Win32 / Mozilla/5.0 (Windows NT 10.0; Wi",
-      "system": "Win32",
-      "vpn": false,
-      "plan": "lifetime",
-      "plan_label": "LIFETIME ð",
-      "session_id": "5d8b07c7-505c-4d2b-976b-d2386d5a6f5c",
-      "login_time": "2026-03-28 02:04:14 UTC",
-      "last_seen": "2026-03-28 02:04:16 UTC"
+    "system_enabled": true,
+    "admin_hwids": [
+        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
+    ],
+    "banned": {},
+    "online_users": {},
+    "kicked_users": {
+        "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6": {
+            "username": "tt",
+            "message": "🔴 Your session has been terminated by the admin.\n\nPlease re-login to continue.",
+            "time": "2026-03-28 02:04:49"
+        }
     }
-  }
 }
