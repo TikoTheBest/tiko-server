@@ -28,7 +28,10 @@
     "attempts": 0,
     "plan": "lifetime",
     "plan_expires": "Never",
-    "plan_activated": "2026-03-26 08:13:29"
+    "plan_activated": "2026-03-26 08:13:29",
+    "status": "banned",
+    "ban_reason": "Account sharing detected",
+    "ban_time": "2026-03-28 01:45:53 UTC"
   },
   "tiko3": {
     "password": "e3379f7376fd3c99452c9f8bf954d4353d18e988c1959fc4756ab15ea9661561",
