@@ -14,16 +14,16 @@
       "system": "Win32",
       "vpn": false,
       "plan": "lifetime",
-      "plan_label": "LIFETIME ð",
-      "session_id": "dff32ecb-db70-4695-bcb2-d6960771584d",
-      "login_time": "2026-03-28 02:05:24 UTC",
-      "last_seen": "2026-03-28 02:05:26 UTC"
+      "plan_label": "LIFETIME 👑",
+      "session_id": "d5b42af9-56ce-47a5-87bb-f9d4e3398f43",
+      "login_time": "2026-03-28 02:12:54 UTC",
+      "last_seen": "2026-03-28 02:12:54 UTC"
     }
   },
   "kicked_users": {
     "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6": {
       "username": "tt",
-      "message": "Ã°ÂÂÂ´ Your session has been terminated by the admin.\n\nPlease re-login to continue.",
+      "message": "ÃÂ°ÃÂÃÂÃÂ´ Your session has been terminated by the admin.\n\nPlease re-login to continue.",
       "time": "2026-03-28 02:04:49"
     }
   }
