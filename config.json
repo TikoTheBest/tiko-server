@@ -3,16 +3,6 @@
     "admin_hwids": [
         "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
     ],
-    "banned": {
-        "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6": {
-            "user": "tiko2",
-            "hwid": "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6",
-            "reason": "Account sharing — unauthorized device for tiko2",
-            "time": "2026-03-28 01:45:53 UTC",
-            "ip": "31.167.159.24",
-            "country": "SA",
-            "device": "Win32 / Mozilla/5.0 (Windows NT 10.0; Win64; x64"
-        }
-    },
+    "banned": {},
     "online_users": {}
 }
