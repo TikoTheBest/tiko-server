@@ -2,20 +2,5 @@
   "system_enabled": true,
   "admin_hwids": [],
   "banned": {},
-  "online_users": {
-    "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6": {
-      "username": "tt",
-      "ip": "31.167.159.24",
-      "country": "SA",
-      "city": "Jeddah",
-      "device": "Browser",
-      "system": "Win32",
-      "vpn": false,
-      "plan": "lifetime",
-      "plan_label": "LIFETIME ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
-      "session_id": "1d45a6dc-ae3d-4b61-b9b5-2fc691df1077",
-      "login_time": "2026-03-29 23:35:29 UTC",
-      "last_seen": "2026-03-29 23:39:32 UTC"
-    }
-  }
+  "online_users": {}
 }
