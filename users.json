@@ -72,5 +72,13 @@
         "plan": "lifetime",
         "plan_expires": "Never",
         "plan_activated": "2026-03-28 01:47:42"
+    },
+    "fares": {
+        "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "basic",
+        "plan_expires": "2026-04-29 01:29:52",
+        "plan_activated": "2026-03-30 01:29:52"
     }
 }
