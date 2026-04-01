@@ -68,7 +68,7 @@
     "tt": {
         "password": "bcrypt:$2b$12$HYugE/BG1HlR.eyO.LeaKe5gUMxTgl5rsRfZWPGrOw1ba/4IXZvya",
         "hwid": "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6",
-        "attempts": 0,
+        "attempts": 1,
         "plan": "lifetime",
         "plan_expires": "Never",
         "plan_activated": "2026-03-28 01:47:42"
