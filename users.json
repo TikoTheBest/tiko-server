@@ -31,7 +31,7 @@
         "plan_activated": "2026-03-26 08:12:29"
     },
     "tiko2": {
-        "password": "48ff737c72b42135ccc10e096136e155e5f5eab6d2ee88e5a0f838cc5816d2ec",
+        "password": "bcrypt:$2b$12$T/0M7Z0nBiz/9TnPODkff.kNmP1ZTwxpZ/npt15ofWczE/YI4OEtC",
         "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
         "attempts": 0,
         "plan": "lifetime",
