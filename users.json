@@ -42,7 +42,7 @@
         "ban_time": "2026-03-28 01:45:53 UTC"
     },
     "tiko3": {
-        "password": "e3379f7376fd3c99452c9f8bf954d4353d18e988c1959fc4756ab15ea9661561",
+        "password": "bcrypt:$2b$12$oHRP.AsOkZ2Mt.aqJM5tauTQynJ45nnjk.pQzJrBdkPlBY11SxaSO",
         "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
         "attempts": 0,
         "plan": "pro",
