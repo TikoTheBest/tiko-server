@@ -1,23 +1,23 @@
 {
-    "system_enabled": true,
-    "admin_hwids": [
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
-    ],
-    "banned": {},
-    "online_users": {
-        "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6": {
-            "username": "22",
-            "ip": "31.167.159.24",
-            "country": "SA",
-            "city": "Jeddah",
-            "device": "TikoPro Browser",
-            "system": "Win32",
-            "vpn": false,
-            "plan": "lifetime",
-            "plan_label": "LIFETIME Ã°ÂÂÂ",
-            "session_id": "b8c38d0c-025c-4130-befe-486facc9c623",
-            "login_time": "2026-04-02 07:48:31 UTC",
-            "last_seen": "2026-04-02 07:49:35 UTC"
-        }
+  "system_enabled": true,
+  "admin_hwids": [
+    "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
+  ],
+  "banned": {},
+  "online_users": {
+    "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6": {
+      "username": "22",
+      "ip": "31.167.159.24",
+      "country": "SA",
+      "city": "Jeddah",
+      "device": "TikoPro Browser",
+      "system": "Win32",
+      "vpn": false,
+      "plan": "lifetime",
+      "plan_label": "LIFETIME 👑",
+      "session_id": "c30e2861-4808-45b9-8c9f-d842a5f688e4",
+      "login_time": "2026-04-02 08:17:59 UTC",
+      "last_seen": "2026-04-02 08:17:59 UTC"
     }
+  }
 }
