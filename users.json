@@ -21,7 +21,10 @@
     "attempts": 0,
     "plan": "pro",
     "plan_expires": "2026-06-01 08:25:28",
-    "plan_activated": "2026-04-02 08:25:28"
+    "plan_activated": "2026-04-02 08:25:28",
+    "status": "banned",
+    "ban_reason": "Account sharing detected",
+    "ban_time": "2026-04-03 19:45:23 UTC"
   },
   "1111": {
     "password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
