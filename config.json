@@ -14,10 +14,24 @@
       "system": "Win32",
       "vpn": false,
       "plan": "pro",
-      "plan_label": "PRO ð¥",
+      "plan_label": "PRO Ã°ÂÂÂ¥",
       "session_id": "16840b6c-69d6-41f7-8f8b-8fbea46248c7",
       "login_time": "2026-04-03 08:24:14 UTC",
       "last_seen": "2026-04-03 08:24:23 UTC"
+    },
+    "c37179c938e362ba164ebec3698488aecddb67dd86c841b9767a82d985064e4d": {
+      "username": "rayan",
+      "ip": "31.167.159.24",
+      "country": "SA",
+      "city": "Jeddah",
+      "device": "TikoPro Browser",
+      "system": "Win32",
+      "vpn": false,
+      "plan": "lifetime",
+      "plan_label": "LIFETIME 👑",
+      "session_id": "9bd795f2-ec85-415e-8841-d69ca97069e7",
+      "login_time": "2026-04-03 15:50:58 UTC",
+      "last_seen": "2026-04-03 15:50:58 UTC"
     }
   }
 }
