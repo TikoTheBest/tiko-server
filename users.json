@@ -51,7 +51,7 @@
     },
     "tiko2": {
         "password": "bcrypt:$2b$12$T/0M7Z0nBiz/9TnPODkff.kNmP1ZTwxpZ/npt15ofWczE/YI4OEtC",
-        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
+        "hwid": "",
         "attempts": 0,
         "plan": "lifetime",
         "plan_expires": "Never",
