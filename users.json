@@ -149,7 +149,7 @@
         "plan_activated": "2026-04-04 06:06:29"
     },
     "mm": {
-        "password": "8fa1dddd53606ceb933c5c6a12e714ed41e11d37a2b7bc48e91d15b54171d033",
+        "password": "bcrypt:$2b$12$vu7eSdd10fQ3mw1S6C9PV.KD6uezSjhuAlJoiRVgvP77Ya7IsaLnC",
         "hwid": "",
         "attempts": 0,
         "plan": "pro",
