@@ -1,30 +1,30 @@
 {
-    "system_enabled": true,
-    "banned": {},
-    "online_users": {
-        "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
-            "username": "qq",
-            "ip": "31.167.159.24",
-            "country": "SA",
-            "city": "Jeddah",
-            "device": "TikoPro Browser",
-            "system": "Win32",
-            "vpn": false,
-            "plan": "lifetime",
-            "plan_label": "LIFETIME ð",
-            "session_id": "bb4983ed-3c79-42ca-9381-0c9a5098ea65",
-            "login_time": "2026-04-04 07:43:04 UTC",
-            "last_seen": "2026-04-04 07:43:07 UTC"
-        }
-    },
-    "admin_hwids": [
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
-    ],
-    "kicked_users": {
-        "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
-            "username": "qq",
-            "message": "ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ´ Your session has been terminated by the admin.\n\nPlease re-login to continue.",
-            "time": "2026-04-04 06:06:40"
-        }
+  "system_enabled": true,
+  "banned": {},
+  "online_users": {
+    "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
+      "username": "qq",
+      "ip": "31.167.159.24",
+      "country": "SA",
+      "city": "Jeddah",
+      "device": "TikoPro Browser",
+      "system": "Win32",
+      "vpn": false,
+      "plan": "lifetime",
+      "plan_label": "LIFETIME 👑",
+      "session_id": "b71b0841-a8f0-4f8b-9ab7-90cb759dddc4",
+      "login_time": "2026-04-04 08:26:24 UTC",
+      "last_seen": "2026-04-04 08:26:24 UTC"
     }
+  },
+  "admin_hwids": [
+    "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
+  ],
+  "kicked_users": {
+    "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
+      "username": "qq",
+      "message": "ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ´ Your session has been terminated by the admin.\n\nPlease re-login to continue.",
+      "time": "2026-04-04 06:06:40"
+    }
+  }
 }
