@@ -1,15 +1,30 @@
 {
-    "system_enabled": true,
-    "banned": {},
-    "online_users": {},
-    "admin_hwids": [
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
-    ],
-    "kicked_users": {
-        "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
-            "username": "qq",
-            "message": "🔴 Your session has been terminated by the admin.\n\nPlease re-login to continue.",
-            "time": "2026-04-04 06:06:40"
-        }
+  "system_enabled": true,
+  "banned": {},
+  "online_users": {
+    "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
+      "username": "qq",
+      "ip": "31.167.159.24",
+      "country": "SA",
+      "city": "Jeddah",
+      "device": "TikoPro Browser",
+      "system": "Win32",
+      "vpn": false,
+      "plan": "lifetime",
+      "plan_label": "LIFETIME 👑",
+      "session_id": "3b70bf02-8f70-49e0-bdd2-f54c7bf9e412",
+      "login_time": "2026-04-04 07:13:10 UTC",
+      "last_seen": "2026-04-04 07:13:10 UTC"
     }
+  },
+  "admin_hwids": [
+    "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
+  ],
+  "kicked_users": {
+    "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
+      "username": "qq",
+      "message": "ð´ Your session has been terminated by the admin.\n\nPlease re-login to continue.",
+      "time": "2026-04-04 06:06:40"
+    }
+  }
 }
