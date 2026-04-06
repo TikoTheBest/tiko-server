@@ -151,7 +151,7 @@
     "mm": {
         "password": "bcrypt:$2b$12$vu7eSdd10fQ3mw1S6C9PV.KD6uezSjhuAlJoiRVgvP77Ya7IsaLnC",
         "hwid": "25fc131ed1e79678ec3140b8bc1fbbd78450f93bae7cfc38a008fb2fb81064dd",
-        "attempts": 0,
+        "attempts": 1,
         "plan": "pro",
         "plan_expires": "2026-06-03 07:59:44",
         "plan_activated": "2026-04-04 07:59:44"
