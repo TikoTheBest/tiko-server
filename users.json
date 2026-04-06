@@ -125,7 +125,7 @@
         "plan_activated": "2026-03-30 14:41:22"
     },
     "yy": {
-        "password": "ef90d9c1ec76b1edc9edfaf2c0c05359c10ccc49ae8ecf7b7fd25ce9c02e86a4",
+        "password": "bcrypt:$2b$12$fOlh8VrHGDxqBW1aTZZRjuPik9cANUzioFnLGnJtfroeav/j20Tam",
         "hwid": "",
         "attempts": 0,
         "plan": "lifetime",
