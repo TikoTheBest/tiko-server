@@ -58,7 +58,7 @@
         "attempts": 0
     },
     "ttt": {
-        "password": "3f7c54571faee024e3fd68603c5c95f6a4c8ef73a398840b974f3f57737a116f",
+        "password": "bcrypt:$2b$12$datBfcEe2biiHu4uBTz8mu8jbaEuqWBGJrnAtrkuHuuosNOK4GZwi",
         "hwid": "",
         "attempts": 0,
         "plan": "pro",
