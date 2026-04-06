@@ -126,7 +126,7 @@
     },
     "yy": {
         "password": "bcrypt:$2b$12$fOlh8VrHGDxqBW1aTZZRjuPik9cANUzioFnLGnJtfroeav/j20Tam",
-        "hwid": "",
+        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
         "attempts": 0,
         "plan": "lifetime",
         "plan_expires": "Never",
