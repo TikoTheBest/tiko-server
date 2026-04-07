@@ -1,7 +1,7 @@
 {
     "11": {
         "password": "bcrypt:$2b$12$/vMn.CUlwDPgJRNqPqlVWe66./qLb9hG9PozLWBQQ6knrGrBfIghK",
-        "hwid": "",
+        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
         "attempts": 0,
         "plan": "basic",
         "plan_expires": "2026-04-27 01:56:36",
