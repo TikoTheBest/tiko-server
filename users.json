@@ -102,7 +102,7 @@
     },
     "tt": {
         "password": "bcrypt:$2b$12$HYugE/BG1HlR.eyO.LeaKe5gUMxTgl5rsRfZWPGrOw1ba/4IXZvya",
-        "hwid": "",
+        "hwid": "e10c8c6d29d8039b1a95c2f38b4cca9f836641d7ddebebac26258e346bde60d7",
         "attempts": 0,
         "plan": "lifetime",
         "plan_expires": "Never",
