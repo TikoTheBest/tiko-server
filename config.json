@@ -1,20 +1,5 @@
 {
     "system_enabled": true,
     "banned": {},
-    "online_users": {
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0": {
-            "username": "33",
-            "ip": "31.167.159.24",
-            "country": "SA",
-            "city": "Jeddah",
-            "device": "DESKTOP-71D16JD",
-            "system": "Windows 11",
-            "vpn": false,
-            "plan": "pro",
-            "plan_label": "PRO 🔥",
-            "session_id": "dad5e15f-b4d5-4bcf-a791-6a786d7d3262",
-            "login_time": "2026-04-07 12:29:42",
-            "last_seen": "2026-04-07 12:30:18"
-        }
-    }
+    "online_users": {}
 }
