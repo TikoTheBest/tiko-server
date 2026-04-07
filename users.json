@@ -161,7 +161,7 @@
     },
     "mylox": {
         "password": "bcrypt:$2b$12$UCRGEYc9SFyfWyvPoAx6NOlfitPqZVpu09KmTX63S9CRjtUMhRER6",
-        "hwid": "",
+        "hwid": "e10c8c6d29d8039b1a95c2f38b4cca9f836641d7ddebebac26258e346bde60d7",
         "attempts": 0,
         "plan": "lifetime",
         "plan_expires": "Never",
