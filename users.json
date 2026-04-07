@@ -182,5 +182,13 @@
     "plan": "lifetime",
     "plan_expires": "Never",
     "plan_activated": "2026-04-07 13:05:03"
+  },
+  "aaa": {
+    "password": "9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0",
+    "hwid": "",
+    "attempts": 0,
+    "plan": "lifetime",
+    "plan_expires": "Never",
+    "plan_activated": "2026-04-07 13:05:54"
   }
 }
