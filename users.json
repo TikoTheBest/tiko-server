@@ -118,7 +118,7 @@
     },
     "rayan": {
         "password": "bcrypt:$2b$12$ILgmkSWvjq8o.aOSQUU2quuZ7shBuMdj.hmumzuQAQocpE.mQd6F6",
-        "hwid": "",
+        "hwid": "7ab6b209c238890dbecdedbf8f15b7f39d2cc4cf936e28cac7ff4074cd5bc392",
         "attempts": 0,
         "plan": "lifetime",
         "plan_expires": "Never",
