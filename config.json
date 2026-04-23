@@ -1,22 +1,7 @@
 {
   "system_enabled": true,
   "banned": {},
-  "online_users": {
-    "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
-      "username": "qq",
-      "ip": "31.167.191.224",
-      "country": "SA",
-      "city": "Jeddah",
-      "device": "TikoPro Browser",
-      "system": "Win32",
-      "vpn": false,
-      "plan": "lifetime",
-      "plan_label": "LIFETIME ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
-      "session_id": "d028be61-3781-4648-ac0a-9f1e31f658a8",
-      "login_time": "2026-04-23 08:57:20 UTC",
-      "last_seen": "2026-04-23 09:01:24 UTC"
-    }
-  },
+  "online_users": {},
   "admin_hwids": [
     "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0"
   ]
