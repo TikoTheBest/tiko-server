@@ -193,7 +193,7 @@
     },
     "67": {
         "password": "49d180ecf56132819571bf39d9b7b342522a2ac6d23c1418d3338251bfe469c8",
-        "hwid": "",
+        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
         "attempts": 0,
         "plan": "lifetime",
         "plan_expires": "Never",
