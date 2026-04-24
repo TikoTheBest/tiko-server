@@ -15,6 +15,20 @@
             "session_id": "2ec139f2-dbce-4767-a315-744171062dc9",
             "login_time": "2026-04-24 19:46:34 UTC",
             "last_seen": "2026-04-24 19:46:37 UTC"
+        },
+        "3149d68fadf390c7702fbd0a696c1971a74750b1ca32eee275ee68fc55cc9bc2": {
+            "username": "yd8x",
+            "ip": "109.161.144.176",
+            "country": "BH",
+            "city": "Manama",
+            "device": "SAF",
+            "system": "Windows 11",
+            "vpn": false,
+            "plan": "pro",
+            "plan_label": "PRO 🔥",
+            "session_id": "7cc53a22-be1b-45b5-8ae4-06a8171c3f07",
+            "login_time": "2026-04-24 22:53:05",
+            "last_seen": "2026-04-24 22:53:05"
         }
     },
     "admin_hwids": [
