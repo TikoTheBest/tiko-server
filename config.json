@@ -11,7 +11,7 @@
       "system": "Win32",
       "vpn": false,
       "plan": "lifetime",
-      "plan_label": "LIFETIME ÃÂ°ÃÂÃÂÃÂ",
+      "plan_label": "LIFETIME ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
       "session_id": "2ec139f2-dbce-4767-a315-744171062dc9",
       "login_time": "2026-04-24 19:46:34 UTC",
       "last_seen": "2026-04-24 19:46:37 UTC"
@@ -25,10 +25,24 @@
       "system": "Win32",
       "vpn": false,
       "plan": "pro",
-      "plan_label": "PRO ð¥",
+      "plan_label": "PRO Ã°ÂÂÂ¥",
       "session_id": "62ee4ff7-781d-4234-bf49-077d58af695f",
       "login_time": "2026-04-24 22:59:52 UTC",
       "last_seen": "2026-04-24 22:59:55 UTC"
+    },
+    "af6de3e59718c42f05d7955e149fb8ab7cef9ec2c46e3af21cc1120a1d36264f": {
+      "username": "FAZ1",
+      "ip": "66.118.153.157",
+      "country": "SA",
+      "city": "Jeddah",
+      "device": "TikoPro Browser",
+      "system": "Win32",
+      "vpn": false,
+      "plan": "pro",
+      "plan_label": "PRO 🔥",
+      "session_id": "bda07ebf-a918-4c05-bfca-a414f5730ea6",
+      "login_time": "2026-04-24 23:00:18 UTC",
+      "last_seen": "2026-04-24 23:00:18 UTC"
     }
   },
   "admin_hwids": [
