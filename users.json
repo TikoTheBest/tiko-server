@@ -206,5 +206,13 @@
         "plan": "pro",
         "plan_expires": "2026-07-23 22:49:13",
         "plan_activated": "2026-04-24 22:49:13"
+    },
+    "yd8x2": {
+        "password": "dcb830b5b5c2c0993983aca363db32b3b41512b9963231a0373c9100b9f48299",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-07-23 22:49:23",
+        "plan_activated": "2026-04-24 22:49:23"
     }
 }
