@@ -15,6 +15,20 @@
             "session_id": "77864bf5-c621-4ebb-ab24-f5885fb1a691",
             "login_time": "2026-04-24 14:55:23 UTC",
             "last_seen": "2026-04-24 14:58:27 UTC"
+        },
+        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0": {
+            "username": "67",
+            "ip": "31.167.191.224",
+            "country": "SA",
+            "city": "Jeddah",
+            "device": "DESKTOP-71D16JD",
+            "system": "Windows 11",
+            "vpn": false,
+            "plan": "lifetime",
+            "plan_label": "LIFETIME 👑",
+            "session_id": "b07a77a9-0e24-469d-be2b-efd414caa3f9",
+            "login_time": "2026-04-24 18:50:17",
+            "last_seen": "2026-04-24 18:50:17"
         }
     },
     "admin_hwids": [
