@@ -190,5 +190,13 @@
         "plan": "pro",
         "plan_expires": "2026-07-23 22:46:31",
         "plan_activated": "2026-04-24 22:46:31"
+    },
+    "FAZ1": {
+        "password": "8274aaf29422cb182145d44ed28773ed5922022b0a9a4391fb476cadb9044895",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-07-23 22:46:47",
+        "plan_activated": "2026-04-24 22:46:47"
     }
 }
