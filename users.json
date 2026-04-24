@@ -135,14 +135,6 @@
     "plan_expires": "Never",
     "plan_activated": "2026-04-02 15:17:17"
   },
-  "qq": {
-    "password": "d5ce2b19fbda14a25deac948154722f33efd37b369a32be8f03ec2be8ef7d3a5",
-    "hwid": "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d",
-    "attempts": 0,
-    "plan": "lifetime",
-    "plan_expires": "Never",
-    "plan_activated": "2026-04-03 23:00:27"
-  },
   "ww": {
     "password": "b84ff8057ee3a7f87deac4ae29ac59292f02e6c28f987031648011018384d888",
     "hwid": "190d428ee31244c6fe0790a34c3c4f49d074ed81c76cc08da087695129bce432",
