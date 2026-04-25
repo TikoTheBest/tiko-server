@@ -43,6 +43,20 @@
             "session_id": "bda07ebf-a918-4c05-bfca-a414f5730ea6",
             "login_time": "2026-04-24 23:00:18 UTC",
             "last_seen": "2026-04-24 23:00:23 UTC"
+        },
+        "54dc64b235367b5c39319551fce800b9d7beb5746b31bab5b465a008b0e6849b": {
+            "username": "FAZ2",
+            "ip": "66.118.153.157",
+            "country": "SA",
+            "city": "Jeddah",
+            "device": "فارس",
+            "system": "Windows 11",
+            "vpn": false,
+            "plan": "pro",
+            "plan_label": "PRO 🔥",
+            "session_id": "394adf3c-9175-48fa-8f25-45311bc53028",
+            "login_time": "2026-04-25 02:10:02",
+            "last_seen": "2026-04-25 02:10:02"
         }
     },
     "admin_hwids": [
