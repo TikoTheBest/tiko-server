@@ -1,20 +1,5 @@
 {
   "system_enabled": true,
   "banned": {},
-  "online_users": {
-    "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
-      "username": "eee",
-      "ip": "31.167.191.224",
-      "country": "SA",
-      "city": "Jeddah",
-      "device": "TikoPro Browser",
-      "system": "Win32",
-      "vpn": false,
-      "plan": "lifetime",
-      "plan_label": "LIFETIME ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
-      "session_id": "52f48766-bd5d-4d15-9c74-984fe4bda9e8",
-      "login_time": "2026-04-25 08:08:58 UTC",
-      "last_seen": "2026-04-25 08:13:02 UTC"
-    }
-  }
+  "online_users": {}
 }
