@@ -34,11 +34,6 @@
         "plan_expires": "Never",
         "plan_activated": "2026-04-03 22:45:28"
     },
-    "1111": {
-        "password": "0ffe1abd1a08215353c233d6e009613e95eec4253832a761af28ff37ac5a150c",
-        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
-        "attempts": 0
-    },
     "tik": {
         "password": "8170fd8a2310fe7aabab25bfdee65820e9957d64ec9762c84309030d06299c63",
         "hwid": "",
