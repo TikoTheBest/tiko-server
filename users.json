@@ -31,14 +31,6 @@
         "plan_expires": "2026-06-24 09:42:32",
         "plan_activated": "2026-03-26 09:42:32"
     },
-    "eeee": {
-        "password": "07f5937c9760f50867a78fa68982b1096cec0798448abf9395cd778fcded6f8d",
-        "hwid": "",
-        "attempts": 0,
-        "plan": "basic",
-        "plan_expires": "2026-04-26 03:20:18",
-        "plan_activated": "2026-03-27 03:20:18"
-    },
     "pro1": {
         "password": "f65a4fba7da26b8f5d751662c97cb835698c2607ee8ca4b079d28158c660d154",
         "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
