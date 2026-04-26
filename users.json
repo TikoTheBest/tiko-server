@@ -1,12 +1,4 @@
 {
-    "55": {
-        "password": "02d20bbd7e394ad5999a4cebabac9619732c343a4cac99470c03e23ba2bdc2bc",
-        "hwid": "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d",
-        "attempts": 0,
-        "plan": "lifetime",
-        "plan_expires": "Never",
-        "plan_activated": "2026-04-03 22:45:28"
-    },
     "tik": {
         "password": "8170fd8a2310fe7aabab25bfdee65820e9957d64ec9762c84309030d06299c63",
         "hwid": "",
