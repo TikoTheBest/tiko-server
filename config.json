@@ -2,20 +2,6 @@
     "system_enabled": true,
     "banned": {},
     "online_users": {
-        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0": {
-            "username": "aaa",
-            "ip": "31.167.191.224",
-            "country": "SA",
-            "city": "Jeddah",
-            "device": "DESKTOP-71D16JD",
-            "system": "Windows 11",
-            "vpn": false,
-            "plan": "lifetime",
-            "plan_label": "LIFETIME 👑",
-            "session_id": "847d3b06-2777-4c42-b4b4-5a42798116f5",
-            "login_time": "2026-04-26 23:55:55",
-            "last_seen": "2026-04-26 23:57:45"
-        },
         "235c500fdda2f77980b5c7759ad2975234ad2086e56f5cec19289b9b07068ee9": {
             "username": "Rimon",
             "ip": "103.177.48.24",
