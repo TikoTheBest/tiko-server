@@ -29,20 +29,6 @@
             "session_id": "553c91ec-cacc-478e-b9dd-51d75e8f1c41",
             "login_time": "2026-04-26 09:45:59 UTC",
             "last_seen": "2026-04-26 09:48:04 UTC"
-        },
-        "3149d68fadf390c7702fbd0a696c1971a74750b1ca32eee275ee68fc55cc9bc2": {
-            "username": "yd8x",
-            "ip": "109.161.204.206",
-            "country": "BH",
-            "city": "Manama",
-            "device": "SAF",
-            "system": "Windows 11",
-            "vpn": false,
-            "plan": "pro",
-            "plan_label": "PRO 🔥",
-            "session_id": "4f0bcdba-eb77-4558-b24d-d22573b37412",
-            "login_time": "2026-04-26 19:57:24",
-            "last_seen": "2026-04-26 20:04:00"
         }
     }
 }
