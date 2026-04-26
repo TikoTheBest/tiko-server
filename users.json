@@ -1,12 +1,4 @@
 {
-    "44": {
-        "password": "71ee45a3c0db9a9865f7313dd3372cf60dca6479d46261f3542eb9346e4a04d6",
-        "hwid": "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d",
-        "attempts": 0,
-        "plan": "lifetime",
-        "plan_expires": "Never",
-        "plan_activated": "2026-04-03 19:48:34"
-    },
     "55": {
         "password": "02d20bbd7e394ad5999a4cebabac9619732c343a4cac99470c03e23ba2bdc2bc",
         "hwid": "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d",
