@@ -15,20 +15,6 @@
             "session_id": "ff6e65e8-ea7c-47c3-b603-fe9fcc97abe2",
             "login_time": "2026-04-25 18:14:32 UTC",
             "last_seen": "2026-04-25 18:18:35 UTC"
-        },
-        "54dc64b235367b5c39319551fce800b9d7beb5746b31bab5b465a008b0e6849b": {
-            "username": "FAZ2",
-            "ip": "—",
-            "country": "—",
-            "city": "—",
-            "device": "فارس",
-            "system": "Windows 11",
-            "vpn": false,
-            "plan": "pro",
-            "plan_label": "PRO 🔥",
-            "session_id": "1c9e1bca-363f-46b1-9cac-520f61f758f8",
-            "login_time": "2026-04-26 09:29:36",
-            "last_seen": "2026-04-26 09:39:00"
         }
     }
 }
