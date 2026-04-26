@@ -1,12 +1,4 @@
 {
-    "22": {
-        "password": "785f3ec7eb32f30b90cd0fcf3657d388b5ff4297f2f9716ff66e9b69c05ddd09",
-        "hwid": "b366a144e28e46a7a64642e45c05349df5096cca4696caa7693d6127636802a6",
-        "attempts": 0,
-        "plan": "lifetime",
-        "plan_expires": "Never",
-        "plan_activated": "2026-04-02 07:28:38"
-    },
     "33": {
         "password": "bcrypt:$2b$12$/zXNNzKXoa4Z2Muz/hi9v.9N1HFH2YCs5s9rSsXRpZ0ZY..Y8uY2q",
         "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
