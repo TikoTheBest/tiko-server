@@ -1,9 +1,4 @@
 {
-    "tik": {
-        "password": "8170fd8a2310fe7aabab25bfdee65820e9957d64ec9762c84309030d06299c63",
-        "hwid": "",
-        "attempts": 0
-    },
     "ttt": {
         "password": "bcrypt:$2b$12$datBfcEe2biiHu4uBTz8mu8jbaEuqWBGJrnAtrkuHuuosNOK4GZwi",
         "hwid": "7ab6b209c238890dbecdedbf8f15b7f39d2cc4cf936e28cac7ff4074cd5bc392",
