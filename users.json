@@ -47,14 +47,6 @@
         "plan_expires": "Never",
         "plan_activated": "2026-03-28 01:47:42"
     },
-    "fares": {
-        "password": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b",
-        "hwid": "",
-        "attempts": 0,
-        "plan": "basic",
-        "plan_expires": "2026-04-29 01:29:52",
-        "plan_activated": "2026-03-30 01:29:52"
-    },
     "rayan": {
         "password": "bcrypt:$2b$12$ILgmkSWvjq8o.aOSQUU2quuZ7shBuMdj.hmumzuQAQocpE.mQd6F6",
         "hwid": "7ab6b209c238890dbecdedbf8f15b7f39d2cc4cf936e28cac7ff4074cd5bc392",
