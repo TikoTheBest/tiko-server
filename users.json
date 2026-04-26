@@ -1,15 +1,4 @@
 {
-    "33": {
-        "password": "bcrypt:$2b$12$/zXNNzKXoa4Z2Muz/hi9v.9N1HFH2YCs5s9rSsXRpZ0ZY..Y8uY2q",
-        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
-        "attempts": 2,
-        "plan": "pro",
-        "plan_expires": "2026-06-01 08:25:28",
-        "plan_activated": "2026-04-02 08:25:28",
-        "status": "banned",
-        "ban_reason": "Account sharing detected",
-        "ban_time": "2026-04-03 19:45:23 UTC"
-    },
     "44": {
         "password": "71ee45a3c0db9a9865f7313dd3372cf60dca6479d46261f3542eb9346e4a04d6",
         "hwid": "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d",
