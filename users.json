@@ -7,17 +7,6 @@
         "plan_expires": "2026-06-24 08:12:29",
         "plan_activated": "2026-03-26 08:12:29"
     },
-    "tiko2": {
-        "password": "bcrypt:$2b$12$T/0M7Z0nBiz/9TnPODkff.kNmP1ZTwxpZ/npt15ofWczE/YI4OEtC",
-        "hwid": "",
-        "attempts": 0,
-        "plan": "lifetime",
-        "plan_expires": "Never",
-        "plan_activated": "2026-03-26 08:13:29",
-        "status": "banned",
-        "ban_reason": "Account sharing detected",
-        "ban_time": "2026-03-28 01:45:53 UTC"
-    },
     "tt": {
         "password": "bcrypt:$2b$12$HYugE/BG1HlR.eyO.LeaKe5gUMxTgl5rsRfZWPGrOw1ba/4IXZvya",
         "hwid": "e10c8c6d29d8039b1a95c2f38b4cca9f836641d7ddebebac26258e346bde60d7",
