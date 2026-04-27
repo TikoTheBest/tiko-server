@@ -11,7 +11,7 @@
       "system": "Windows 10",
       "vpn": false,
       "plan": "pro",
-      "plan_label": "PRO ÃÂ°ÃÂÃÂÃÂ¥",
+      "plan_label": "PRO ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¥",
       "session_id": "642f4498-9c32-4016-a34f-f02435f1ea00",
       "login_time": "2026-04-26 23:56:47",
       "last_seen": "2026-04-26 23:58:42"
@@ -25,7 +25,7 @@
       "system": "Win32",
       "vpn": false,
       "plan": "lifetime",
-      "plan_label": "LIFETIME Ã°ÂÂÂ",
+      "plan_label": "LIFETIME ÃÂ°ÃÂÃÂÃÂ",
       "session_id": "adb75fdb-3686-4ceb-8f77-1212bf19af65",
       "login_time": "2026-04-26 23:59:31 UTC",
       "last_seen": "2026-04-26 23:59:35 UTC"
@@ -39,10 +39,10 @@
       "system": "Win32",
       "vpn": false,
       "plan": "pro",
-      "plan_label": "PRO 🔥",
+      "plan_label": "PRO ð¥",
       "session_id": "1834cdcb-6227-49eb-b99f-187e98a06031",
       "login_time": "2026-04-27 00:05:56 UTC",
-      "last_seen": "2026-04-27 00:05:56 UTC"
+      "last_seen": "2026-04-27 00:06:02 UTC"
     }
   },
   "admin_hwids": [
