@@ -2,20 +2,6 @@
     "system_enabled": true,
     "banned": {},
     "online_users": {
-        "235c500fdda2f77980b5c7759ad2975234ad2086e56f5cec19289b9b07068ee9": {
-            "username": "Rimon",
-            "ip": "37.111.223.192",
-            "country": "BD",
-            "city": "Dhaka",
-            "device": "DESKTOP-5L8AGJ7",
-            "system": "Windows 10",
-            "vpn": false,
-            "plan": "pro",
-            "plan_label": "PRO ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ¥",
-            "session_id": "c2b480d4-a66f-45f8-8307-fbc60b407fc0",
-            "login_time": "2026-04-27 00:07:44",
-            "last_seen": "2026-04-27 00:13:04"
-        },
         "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
             "username": "eee",
             "ip": "31.167.191.224",
