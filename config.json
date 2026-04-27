@@ -11,7 +11,7 @@
       "system": "Windows 10",
       "vpn": false,
       "plan": "pro",
-      "plan_label": "PRO ð¥",
+      "plan_label": "PRO Ã°ÂÂÂ¥",
       "session_id": "642f4498-9c32-4016-a34f-f02435f1ea00",
       "login_time": "2026-04-26 23:56:47",
       "last_seen": "2026-04-26 23:58:42"
@@ -25,10 +25,10 @@
       "system": "Win32",
       "vpn": false,
       "plan": "lifetime",
-      "plan_label": "LIFETIME 👑",
+      "plan_label": "LIFETIME ð",
       "session_id": "adb75fdb-3686-4ceb-8f77-1212bf19af65",
       "login_time": "2026-04-26 23:59:31 UTC",
-      "last_seen": "2026-04-26 23:59:31 UTC"
+      "last_seen": "2026-04-26 23:59:35 UTC"
     }
   },
   "admin_hwids": [
