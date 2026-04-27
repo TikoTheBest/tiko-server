@@ -1,85 +1,85 @@
 {
-  "mylox": {
-    "password": "bcrypt:$2b$12$UCRGEYc9SFyfWyvPoAx6NOlfitPqZVpu09KmTX63S9CRjtUMhRER6",
-    "hwid": "",
-    "attempts": 0,
-    "plan": "lifetime",
-    "plan_expires": "Never",
-    "plan_activated": "2026-04-07 12:45:09"
-  },
-  "eee": {
-    "password": "282b91e08fd50a38f030dbbdee7898d36dd523605d94d9dd6e50b298e47844be",
-    "hwid": "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d",
-    "attempts": 0,
-    "plan": "lifetime",
-    "plan_expires": "Never",
-    "plan_activated": "2026-04-07 12:48:33"
-  },
-  "mylox2": {
-    "password": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
-    "hwid": "",
-    "attempts": 0,
-    "plan": "lifetime",
-    "plan_expires": "Never",
-    "plan_activated": "2026-04-07 13:05:03"
-  },
-  "aaa": {
-    "password": "9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0",
-    "hwid": "",
-    "attempts": 0,
-    "plan": "lifetime",
-    "plan_expires": "Never",
-    "plan_activated": "2026-04-07 13:05:54",
-    "status": "banned",
-    "ban_reason": "Account sharing detected",
-    "ban_time": "2026-04-26 23:56:33 UTC"
-  },
-  "FAZ2": {
-    "password": "a683c3fbedc1d85d833b4c63a2aecb216219bcc113c463872a0ae47b90682184",
-    "hwid": "54dc64b235367b5c39319551fce800b9d7beb5746b31bab5b465a008b0e6849b",
-    "attempts": 0,
-    "plan": "pro",
-    "plan_expires": "2026-07-23 22:46:31",
-    "plan_activated": "2026-04-24 22:46:31"
-  },
-  "FAZ1": {
-    "password": "8274aaf29422cb182145d44ed28773ed5922022b0a9a4391fb476cadb9044895",
-    "hwid": "af6de3e59718c42f05d7955e149fb8ab7cef9ec2c46e3af21cc1120a1d36264f",
-    "attempts": 0,
-    "plan": "pro",
-    "plan_expires": "2026-07-23 22:46:47",
-    "plan_activated": "2026-04-24 22:46:47"
-  },
-  "yd8x": {
-    "password": "f37dba7371d497ee46a98fcddc95b91227584ec341f21dfb2125450d70fd2d66",
-    "hwid": "3149d68fadf390c7702fbd0a696c1971a74750b1ca32eee275ee68fc55cc9bc2",
-    "attempts": 0,
-    "plan": "pro",
-    "plan_expires": "2026-07-23 22:49:13",
-    "plan_activated": "2026-04-24 22:49:13"
-  },
-  "yd8x2": {
-    "password": "dcb830b5b5c2c0993983aca363db32b3b41512b9963231a0373c9100b9f48299",
-    "hwid": "e3abb5ea59f6ebea24e85ee468c1e4458f3c6c58a86ab22eaab77382d80dcbbe",
-    "attempts": 0,
-    "plan": "pro",
-    "plan_expires": "2026-07-23 22:49:23",
-    "plan_activated": "2026-04-24 22:49:23"
-  },
-  "Rimon": {
-    "password": "3514acf61732f662da19625f7fe781c3e483f2dce8506012f3bb393f5003e105",
-    "hwid": "235c500fdda2f77980b5c7759ad2975234ad2086e56f5cec19289b9b07068ee9",
-    "attempts": 0,
-    "plan": "pro",
-    "plan_expires": "2026-06-25 23:37:27",
-    "plan_activated": "2026-04-26 23:37:27"
-  },
-  "Rimon2": {
-    "password": "3514acf61732f662da19625f7fe781c3e483f2dce8506012f3bb393f5003e105",
-    "hwid": "ba58ad28626e07e6f9392953c12bb6662f6fbe90682f80dcdc94173bb8eae611",
-    "attempts": 0,
-    "plan": "pro",
-    "plan_expires": "2026-06-25 23:37:36",
-    "plan_activated": "2026-04-26 23:37:36"
-  }
+    "mylox": {
+        "password": "bcrypt:$2b$12$UCRGEYc9SFyfWyvPoAx6NOlfitPqZVpu09KmTX63S9CRjtUMhRER6",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "lifetime",
+        "plan_expires": "Never",
+        "plan_activated": "2026-04-07 12:45:09"
+    },
+    "eee": {
+        "password": "282b91e08fd50a38f030dbbdee7898d36dd523605d94d9dd6e50b298e47844be",
+        "hwid": "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d",
+        "attempts": 0,
+        "plan": "lifetime",
+        "plan_expires": "Never",
+        "plan_activated": "2026-04-07 12:48:33"
+    },
+    "mylox2": {
+        "password": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "lifetime",
+        "plan_expires": "Never",
+        "plan_activated": "2026-04-07 13:05:03"
+    },
+    "aaa": {
+        "password": "9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0",
+        "hwid": "",
+        "attempts": 0,
+        "plan": "lifetime",
+        "plan_expires": "Never",
+        "plan_activated": "2026-04-07 13:05:54",
+        "status": "banned",
+        "ban_reason": "Account sharing detected",
+        "ban_time": "2026-04-26 23:56:33 UTC"
+    },
+    "FAZ2": {
+        "password": "a683c3fbedc1d85d833b4c63a2aecb216219bcc113c463872a0ae47b90682184",
+        "hwid": "54dc64b235367b5c39319551fce800b9d7beb5746b31bab5b465a008b0e6849b",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-07-23 22:46:31",
+        "plan_activated": "2026-04-24 22:46:31"
+    },
+    "FAZ1": {
+        "password": "8274aaf29422cb182145d44ed28773ed5922022b0a9a4391fb476cadb9044895",
+        "hwid": "af6de3e59718c42f05d7955e149fb8ab7cef9ec2c46e3af21cc1120a1d36264f",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-07-23 22:46:47",
+        "plan_activated": "2026-04-24 22:46:47"
+    },
+    "yd8x": {
+        "password": "f37dba7371d497ee46a98fcddc95b91227584ec341f21dfb2125450d70fd2d66",
+        "hwid": "3149d68fadf390c7702fbd0a696c1971a74750b1ca32eee275ee68fc55cc9bc2",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-07-23 22:49:13",
+        "plan_activated": "2026-04-24 22:49:13"
+    },
+    "yd8x2": {
+        "password": "dcb830b5b5c2c0993983aca363db32b3b41512b9963231a0373c9100b9f48299",
+        "hwid": "e3abb5ea59f6ebea24e85ee468c1e4458f3c6c58a86ab22eaab77382d80dcbbe",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-07-23 22:49:23",
+        "plan_activated": "2026-04-24 22:49:23"
+    },
+    "Rimon": {
+        "password": "3514acf61732f662da19625f7fe781c3e483f2dce8506012f3bb393f5003e105",
+        "hwid": "235c500fdda2f77980b5c7759ad2975234ad2086e56f5cec19289b9b07068ee9",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-06-25 23:37:27",
+        "plan_activated": "2026-04-26 23:37:27"
+    },
+    "Rimon2": {
+        "password": "3514acf61732f662da19625f7fe781c3e483f2dce8506012f3bb393f5003e105",
+        "hwid": "ba58ad28626e07e6f9392953c12bb6662f6fbe90682f80dcdc94173bb8eae611",
+        "attempts": 0,
+        "plan": "pro",
+        "plan_expires": "2026-06-25 23:37:36",
+        "plan_activated": "2026-04-26 23:37:36"
+    }
 }
