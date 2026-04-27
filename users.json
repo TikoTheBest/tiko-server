@@ -25,7 +25,7 @@
     },
     "aaa": {
         "password": "9834876dcfb05cb167a5c24953eba58c4ac89b1adf57f28f2f9d09af107ee8f0",
-        "hwid": "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0",
+        "hwid": "",
         "attempts": 0,
         "plan": "lifetime",
         "plan_expires": "Never",
