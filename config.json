@@ -11,10 +11,10 @@
             "system": "Windows 10",
             "vpn": false,
             "plan": "pro",
-            "plan_label": "PRO ð¥",
+            "plan_label": "PRO 🔥",
             "session_id": "c2b480d4-a66f-45f8-8307-fbc60b407fc0",
             "login_time": "2026-04-27 00:07:44",
-            "last_seen": "2026-04-27 00:08:04"
+            "last_seen": "2026-04-27 00:07:44"
         },
         "01e913b5fe902f63781abefd1f1739ceb47b49bbdea35730d4338171a1baf33d": {
             "username": "eee",
@@ -25,7 +25,7 @@
             "system": "Win32",
             "vpn": false,
             "plan": "lifetime",
-            "plan_label": "LIFETIME ÃÂÃÂÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ",
+            "plan_label": "LIFETIME ÃÂÃÂ°ÃÂÃÂÃÂÃÂÃÂÃÂ",
             "session_id": "adb75fdb-3686-4ceb-8f77-1212bf19af65",
             "login_time": "2026-04-26 23:59:31 UTC",
             "last_seen": "2026-04-26 23:59:35 UTC"
@@ -39,10 +39,24 @@
             "system": "Win32",
             "vpn": false,
             "plan": "pro",
-            "plan_label": "PRO ÃÂ°ÃÂÃÂÃÂ¥",
+            "plan_label": "PRO Ã°ÂÂÂ¥",
             "session_id": "1834cdcb-6227-49eb-b99f-187e98a06031",
             "login_time": "2026-04-27 00:05:56 UTC",
-            "last_seen": "2026-04-27 00:08:03 UTC"
+            "last_seen": "2026-04-27 00:07:03 UTC"
+        },
+        "0f231cf3875d841b186422ffcaf5ed415e6e84ce04c14b31a325154be8d0ffc0": {
+            "username": "aaa",
+            "ip": "31.167.191.224",
+            "country": "SA",
+            "city": "Jeddah",
+            "device": "DESKTOP-71D16JD",
+            "system": "Windows 11",
+            "vpn": false,
+            "plan": "lifetime",
+            "plan_label": "LIFETIME 👑",
+            "session_id": "c0d6a3b9-59f0-4945-8ad5-fb6321b6d323",
+            "login_time": "2026-04-27 00:06:49",
+            "last_seen": "2026-04-27 00:06:49"
         }
     },
     "admin_hwids": [
