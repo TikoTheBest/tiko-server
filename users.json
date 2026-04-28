@@ -66,14 +66,6 @@
     "plan_expires": "2026-07-23 22:49:23",
     "plan_activated": "2026-04-24 22:49:23"
   },
-  "Rimon2": {
-    "password": "3514acf61732f662da19625f7fe781c3e483f2dce8506012f3bb393f5003e105",
-    "hwid": "ba58ad28626e07e6f9392953c12bb6662f6fbe90682f80dcdc94173bb8eae611",
-    "attempts": 0,
-    "plan": "pro",
-    "plan_expires": "2026-06-25 23:37:36",
-    "plan_activated": "2026-04-26 23:37:36"
-  },
   "abod1": {
     "password": "ef797c8118f02dfb649607dd5d3f8c7623048c9c063d532cc95c5ed7a898a64f",
     "hwid": "050b9814f65e4d852efaf8c557c8639a14b85a2c22722a1bbc3961110279672f",
